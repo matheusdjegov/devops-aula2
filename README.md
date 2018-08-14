@@ -1,6 +1,7 @@
 # devops-aula2
 
 Djegov
-luiza
+luiza djegov
 matheus
 cecilia
+djegov
